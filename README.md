@@ -29,6 +29,6 @@ Dessa forma, o LDR é o responsável por informar ao sistema em qual modo (diurn
 **LINK DO DRIVE COM O VÍDEO DE DEMONSTRAÇÃO (OBS: caso apareça a mensagem "Este arquivo de vídeo ainda está sendo processado para reprodução. Tente de novo mais tarde." clique em *'download'* e depois em *'fazer o download mesmo assim'*):**
 https://drive.google.com/file/d/1zj4RKUmdVISI1NEAsFDGtwgOMOaGHaX2/view?usp=sharing
 
-Seuge a imagem da plataforma Ubidots, que 
+Seuge a imagem da plataforma Ubidots, que demonstra os dados de forma interativa. 
 
 <img width="2936" height="1678" alt="imagem ubidots" src="https://github.com/user-attachments/assets/543e886d-93dc-49a1-8aac-8fc7aacc00de" />
